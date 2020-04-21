@@ -10,16 +10,16 @@ Tweets were collected from Janary to Aprial 2020 from different hashtags such as
 
 In the notebook you will learn the following 
 
-- How to load and exlpore the tweets dataset
-- How to clean the tweets data 
-- How to identify common words 
-- How to visualize the tweets data to get insights to make conclusion
+- How to load and exlpore the tweets dataset.
+- How to clean the tweets data.
+- How to identify common words.
+- How to visualize the tweets data to get insights and make conclusion.
 
 
 **WARNING:** Don't use the tweets data collected for any political agenda.
 
 ## PYHON PACKAGES 
-Here is the list of python package used for this min project 
+Here is the list of python package used for this min project.
 
 - Numpy
 - Pandas
